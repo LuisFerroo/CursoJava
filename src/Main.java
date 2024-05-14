@@ -13,5 +13,6 @@ public class Main {
         System.out.printf("%.4f%n" , x);
         System.out.println("RESULTATO = " + x + " METROS");
         System.out.printf("%s tem %d anos e ganha %.2f reais%n", nome, idade, renda);
+        System.out.println();
     }
 }

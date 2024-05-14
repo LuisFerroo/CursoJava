@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ExercicioCasting2",
+            "request": "launch",
+            "mainClass": "ExercicioCasting2",
+            "projectName": "curso java_eb6e27b8"
+        },
+        {
+            "type": "java",
+            "name": "ExercicioCasting",
+            "request": "launch",
+            "mainClass": "ExercicioCasting",
+            "projectName": "curso java_eb6e27b8"
+        },
+        {
+            "type": "java",
             "name": "Exercicio",
             "request": "launch",
             "mainClass": "Exercicio",
