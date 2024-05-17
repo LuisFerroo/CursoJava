@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FuncoesMatematicas",
+            "request": "launch",
+            "mainClass": "FuncoesMatematicas",
+            "projectName": "curso java_eb6e27b8"
+        },
+        {
+            "type": "java",
             "name": "ExercicioScanQuebra",
             "request": "launch",
             "mainClass": "ExercicioScanQuebra",
