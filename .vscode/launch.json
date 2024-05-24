@@ -9,6 +9,13 @@
             "name": "Bhaskara",
             "request": "launch",
             "mainClass": "Bhaskara",
+            "projectName": "CursoJava_6e9929ec"
+        },
+        {
+            "type": "java",
+            "name": "Bhaskara",
+            "request": "launch",
+            "mainClass": "Bhaskara",
             "projectName": "curso java_eb6e27b8"
         },
         {

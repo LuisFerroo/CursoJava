@@ -1,4 +1,3 @@
-package EstruturaSequencial;
 import java.util.Scanner;
 public class Bhaskara {
     public static void main(String[] args) {
