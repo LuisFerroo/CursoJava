@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "EstruturaSequencial6",
+            "request": "launch",
+            "mainClass": "EstruturaSequencial6",
+            "projectName": "CursoJava_6e9929ec"
+        },
+        {
+            "type": "java",
             "name": "Bhaskara",
             "request": "launch",
             "mainClass": "Bhaskara",
