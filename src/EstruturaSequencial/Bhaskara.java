@@ -5,7 +5,7 @@ public class Bhaskara {
         Scanner sc = new Scanner(System.in);
         System.out.println("Digite valor de a:");
         a = sc.nextDouble();
-        // Verificar se 'a' é zero
+        // Verificar se 'a' é zero, comparativo
         if (a == 0) {
             System.out.println("O valor de 'a' não pode ser zero em uma equação de segundo grau.");
             return;
@@ -16,7 +16,7 @@ public class Bhaskara {
         c = sc.nextDouble();
         sc.close();
         delta = Math.pow(b, 2.0)-(4.0*a*c);
-        // Verificar se 'delta' é negativo
+        // Verificar se 'delta' é negativo, comparativo
         if (delta < 0) {
             System.out.println("A equação não possui raízes reais, pois o delta é negativo.");
             return;
