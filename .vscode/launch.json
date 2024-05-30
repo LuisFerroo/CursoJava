@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Multiplos",
+            "request": "launch",
+            "mainClass": "EstruturaCondicional.Multiplos",
+            "projectName": "CursoJava_6e9929ec"
+        },
+        {
+            "type": "java",
             "name": "ParOuIpar",
             "request": "launch",
             "mainClass": "EstruturaCondicional.ParOuIpar",
