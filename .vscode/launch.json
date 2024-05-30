@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Exercicio",
+            "request": "launch",
+            "mainClass": "Exercicio",
+            "projectName": "CursoJava_6e9929ec"
+        },
+        {
+            "type": "java",
+            "name": "EstruturaSequencial1",
+            "request": "launch",
+            "mainClass": "EstruturaSequencial1",
+            "projectName": "CursoJava_6e9929ec"
+        },
+        {
+            "type": "java",
             "name": "MaioridadeEUA",
             "request": "launch",
             "mainClass": "EstruturaCondicional.MaioridadeEUA",
