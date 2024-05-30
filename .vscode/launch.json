@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ParOuIpar",
+            "request": "launch",
+            "mainClass": "EstruturaCondicional.ParOuIpar",
+            "projectName": "CursoJava_6e9929ec"
+        },
+        {
+            "type": "java",
+            "name": "Negativo",
+            "request": "launch",
+            "mainClass": "EstruturaCondicional.Negativo",
+            "projectName": "CursoJava_6e9929ec"
+        },
+        {
+            "type": "java",
+            "name": "MenorNumero",
+            "request": "launch",
+            "mainClass": "EstruturaCondicional.MenorNumero",
+            "projectName": "CursoJava_6e9929ec"
+        },
+        {
+            "type": "java",
             "name": "Exercicio",
             "request": "launch",
             "mainClass": "Exercicio",
