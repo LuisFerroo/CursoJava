@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "APagar",
+            "request": "launch",
+            "mainClass": "EstruturaCondicional.APagar",
+            "projectName": "CursoJava_6e9929ec"
+        },
+        {
+            "type": "java",
             "name": "TempoJogo",
             "request": "launch",
             "mainClass": "EstruturaCondicional.TempoJogo",
