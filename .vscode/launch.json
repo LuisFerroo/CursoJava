@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Lisarb",
+            "request": "launch",
+            "mainClass": "EstruturaCondicional.Lisarb",
+            "projectName": "CursoJava_6e9929ec"
+        },
+        {
+            "type": "java",
             "name": "Coordenadas",
             "request": "launch",
             "mainClass": "EstruturaCondicional.Coordenadas",
