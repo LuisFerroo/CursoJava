@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TempoJogo",
+            "request": "launch",
+            "mainClass": "EstruturaCondicional.TempoJogo",
+            "projectName": "CursoJava_6e9929ec"
+        },
+        {
+            "type": "java",
             "name": "Multiplos",
             "request": "launch",
             "mainClass": "EstruturaCondicional.Multiplos",
