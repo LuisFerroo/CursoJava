@@ -7,7 +7,7 @@ public class ParOuIpar {
         Scanner sc = new Scanner(System.in);
         int a = sc.nextInt();
         sc.close();
-        if ((a % 2) == 0) {
+        if (a % 2 == 0) {
             System.out.println(a + " É PAR");
         }
         else {System.out.println(a + " É IMPAR");

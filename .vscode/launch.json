@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CondicaoTernaria",
+            "request": "launch",
+            "mainClass": "EstruturaCondicional.CondicaoTernaria",
+            "projectName": "CursoJava_6e9929ec"
+        },
+        {
+            "type": "java",
+            "name": "SwitchCase",
+            "request": "launch",
+            "mainClass": "EstruturaCondicional.SwitchCase",
+            "projectName": "CursoJava_6e9929ec"
+        },
+        {
+            "type": "java",
             "name": "Lisarb",
             "request": "launch",
             "mainClass": "EstruturaCondicional.Lisarb",
