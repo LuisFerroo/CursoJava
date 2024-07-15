@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Terreno",
+            "request": "launch",
+            "mainClass": "EstruturaRepetitiva.Terreno",
+            "projectName": "CursoJava_6e9929ec"
+        },
+        {
+            "type": "java",
             "name": "CondicaoTernaria",
             "request": "launch",
             "mainClass": "EstruturaCondicional.CondicaoTernaria",
