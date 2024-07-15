@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SomaAteZero",
+            "request": "launch",
+            "mainClass": "EstruturaRepetitiva.SomaAteZero",
+            "projectName": "CursoJava_6e9929ec"
+        },
+        {
+            "type": "java",
+            "name": "PrintaAteZero",
+            "request": "launch",
+            "mainClass": "EstruturaRepetitiva.PrintaAteZero",
+            "projectName": "CursoJava_6e9929ec"
+        },
+        {
+            "type": "java",
             "name": "Terreno",
             "request": "launch",
             "mainClass": "EstruturaRepetitiva.Terreno",

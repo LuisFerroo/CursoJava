@@ -7,7 +7,7 @@ public class Negativo {
         Scanner sc = new Scanner(System.in);
         int a = sc.nextInt();
         sc.close();
-        if (a<0){
+        if (a < 0){
             System.out.println("NEGATIVO");
         }
         else {

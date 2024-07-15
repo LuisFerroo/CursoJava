@@ -2,7 +2,7 @@ package EstruturaCondicional;
 
 import java.util.Scanner;
 
-public class ParOuIpar {
+public class ParOuImpar {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int a = sc.nextInt();
