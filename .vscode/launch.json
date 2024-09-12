@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ExercicioCoordenada2while",
+            "request": "launch",
+            "mainClass": "EstruturaRepetitiva.ExercicioCoordenada2while",
+            "projectName": "CursoJava_6e9929ec"
+        },
+        {
+            "type": "java",
+            "name": "ExercicioWhile1",
+            "request": "launch",
+            "mainClass": "EstruturaRepetitiva.ExercicioWhile1",
+            "projectName": "CursoJava_6e9929ec"
+        },
+        {
+            "type": "java",
             "name": "SomaAteZero",
             "request": "launch",
             "mainClass": "EstruturaRepetitiva.SomaAteZero",
