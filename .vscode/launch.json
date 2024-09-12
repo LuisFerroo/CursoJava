@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ExercicioCombustivelwhile3",
+            "request": "launch",
+            "mainClass": "EstruturaRepetitiva.ExercicioCombustivelwhile3",
+            "projectName": "CursoJava_6e9929ec"
+        },
+        {
+            "type": "java",
             "name": "ExercicioCoordenada2while",
             "request": "launch",
             "mainClass": "EstruturaRepetitiva.ExercicioCoordenada2while",
